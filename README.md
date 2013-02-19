@@ -1,4 +1,4 @@
 s3-cors-demo
 ============
 
-Using S3 and Cross Origin Resource Sharing
+This is a demonstration using Amazon Web Services Simple Storage Service and Cross Origin Resource Sharing
