@@ -1,7 +1,9 @@
-var S3 = function () {
+// var signingEndpoint = "/sd/import/s3/signed";
+// var signingPutEndpoint = "/sd/import/s3/put";
 
-    var signingEndpoint = "/sd/import/s3/signed";
-    var signingPutEndpoint = "/sd/import/s3/put";
+
+var S3 = function ( signingEndpoint, signingPutEndpoint ) {
+
     var me = this;
 
     var filesToLoad = [];
